@@ -14,7 +14,7 @@ $corDeFundoBotaoSecundario: #0063e5;
 $corDeFundoBotaoDark: #000;
 
 body{
-    $corDeFundo: #040714;
+    background-color: $corDeFundo;
 }
 
 @mixin text($fontSize: 16px) {
